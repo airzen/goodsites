@@ -49,13 +49,13 @@
 * [百度一个前端妹子张个人站](http://zhangwenli.com/Polyvia/image.html)
 * [天才胡正个人网站](http://www.huzheng.org/)
 * [ByVoid](http://www.byvoid.com)
-* [*maskray 90后大牛干货满满](http://maskray.me)
+* [*maskray 90后大牛干货满满*](http://maskray.me)
 * [奇舞学院视频-硬货](https://t.75team.com/video)
 * [十年踪迹的博客](https://www.h5jun.com/)
-* [一个主修机器学习的研究生]{https://blog.slinuxer.com/}
+* [一个主修机器学习的研究生](https://blog.slinuxer.com/)
 * [逗比根据地-需要翻墙](https://doub.io/)
-* [*小z博客](https://www.xiaoz.me)
-* [*小z软件站](http://soft.hixz.org)
+* [*小z博客*](https://www.xiaoz.me)
+* [*小z软件站*](http://soft.hixz.org)
 * [歌单](http://www.barretlee.com/about/)
 
 
@@ -92,8 +92,8 @@
 * [Convertio:在线免费文档转换工具](https://convertio.co/zh/api/)
 * [文图- 在线编辑的数据可视化网站](https://www.wentu.io/)
 * [SmallPDF -PDF压缩及互转](https://smallpdf.com/)
-* [**百度脑图](http://naotu.baidu.com/)
-* [**百度免费H5制作](https://h5.baidu.com)
+* [**百度脑图**](http://naotu.baidu.com/)
+* [**百度免费H5制作**](https://h5.baidu.com)
 * [MAKA- h5制作及海报制作](http://maka.im)
 * [创客贴-生成专业海报图片-微信登录](https://www.chuangkit.com/)
 * [Apowersoft是能够实现录屏、录音、音视频在线转换](https://www.apowersoft.cn/)
@@ -152,4 +152,4 @@ VPN翻墙，科学上网
 8. [Pixeden Pixeden堪称是史上最全的资源库，从视觉稿到模板、图标，非常全面！](http://www.pixeden.com/)
 9. [Pexels这个网站按照生活、商业等不同场景提供了相当有质感的图片，只要搜素关键词就能找到对应的情景素材](https://www.pexels.com/)
 10. [Giphy 这是一个GIF动图的资源站，无论是用于H5制作或者是作为自媒体的内容素材都值得大家收藏哦](http://giphy.com/)
-除了以上10个网站外，High5君也会经常在花瓣网、懒人图库等网站出没。当然，这类素材仅限个人使用，若需商用化则要考虑版权问题。
+
