@@ -135,6 +135,7 @@ VPN翻墙，科学上网
 * [iplaysoft](http://www.iplaysoft.com)
 * [微软资源下载](http://msdn.itellyou.cn)
 * [图标站](http://www.easyicon.net/)
+* [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn)
 * [favicon生成网站](http://favicon.htmlkit.com/favicon/)
 * [picasii 图片生成ascii组成的文本图形](http://picascii.com)
 * [听歌不错 youtube 推荐 不自觉抖脚的歌单](https://kn007.net/topics/unconscious-shake-feet-song/)
@@ -142,6 +143,7 @@ VPN翻墙，科学上网
 
 素材库网站
 ===================================
+[Free Images - Pixabay 可商用无需注明版权的图库](https://pixabay.com)
 1. [Dribbble 一直很喜欢逛Dribbble，跟国内的站酷一样聚集了大批的设计达人，里面还有很多免费的素材资源可供下载。](https://dribbble.com/)
 2. [Fribbble Fribbble会把Dribbble的免费素材汇集起来，包括图标、PSD、动图等等。（我们利用PSD格式可以分离更多图层，导出PNG图就可用作H5的图片素材）](http://fribbble.com)
 3. [Behance很多外国设计师会在Behance上发布设计项目，涵盖了多个创意领域的设计作品，背景插图、交互动图等素材都可以在上面找到。](https://www.behance.net)
