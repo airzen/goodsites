@@ -141,6 +141,7 @@ VPN翻墙，科学上网
 * [picasii 图片生成ascii组成的文本图形](http://picascii.com)
 * [听歌不错 youtube 推荐 不自觉抖脚的歌单](https://kn007.net/topics/unconscious-shake-feet-song/)
 *  telnet mapscii.me  ascii 方式查看地图
+* [电子书影视资源聚合站](https://www.h2ero.cn)
 
 素材库网站
 ===================================
