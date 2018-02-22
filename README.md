@@ -132,7 +132,6 @@ VPN翻墙，科学上网
 ===================================
 * [btsync资源类网站](https://syncfan.com/post/)
 * [精品小软件](http://www.softwareok.com)
-* [不死鸟-很多好软件资源](http://busi.me)
 * [iplaysoft](http://www.iplaysoft.com)
 * [微软资源下载](http://msdn.itellyou.cn)
 * [图标站](http://www.easyicon.net/)
