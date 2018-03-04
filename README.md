@@ -117,6 +117,7 @@
 * [代码在线调试](https://leetcode.com/)
 * [javascript代码在线调试](http://jsbin.com)
 * [javascript代码在线调试国内版](http://runjs.cn/)
+* [javascript ES6代码转兼容版本转换器 Babel is a JavaScript compiler](https://babeljs.io/)
 * [更全的代码在线调试](https://c.runoob.com/)
 * [shell终端录屏](https://asciinema.org/)
 * 反向代理ngrok研究 ngrok.com(国外） ngrok.cc(国产免费)
