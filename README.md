@@ -14,6 +14,7 @@
 * [Postman API 接口测试](https://www.getpostman.com/)
 * [API接口管理平台eolinker 功能优于Postman](https://www.eolinker.com)
 * [CDN加速引用第三方js库](https://cdnjs.com/)
+* [CDN加速引用第三方js库unpkg.com](https://unpkg.com/)
 * [hichats中文在线js代码调试](https://code.hcharts.cn/)
 * [百度echart BSD商业免费](http://echarts.baidu.com)
 * [在线作图工具ProcessOn](http://www.ProcessOn.com)
