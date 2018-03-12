@@ -106,7 +106,7 @@
 * [freessl 申请](https://freessl.org/)
 * [ssl检测](https://myssl.com)
 * [在线环境音乐](http://www.lavaradio.com)
-
+* [局域网自发现文本和文件共享](https://www.ssavr.com)
 
 
 软件使用类
