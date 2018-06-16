@@ -18,12 +18,24 @@
 * [hichats中文在线js代码调试](https://code.hcharts.cn/)
 * [百度echart BSD商业免费](http://echarts.baidu.com)
 * [在线作图工具ProcessOn](http://www.ProcessOn.com)
+* [幕布](https://mubu.com)
 * [墨刀—强大易用的原型设计与协同工具](https://modao.cc/)
 * [可道云-资源管理器](https://kodcloud.com)
 * [优词-查英文词源](http://www.youdict.com/)
 * [词根字典](http://www.cgdict.com/index)
 * [抓鸟-词典](http://dict.zhuaniao.com/)
 
+几款免费高效的数据收集工具
+====================================
+* [麦克CRM,手机PC表单自适应 偏向消费大众](http://www.mikecrm.com/)
+* [金数据-偏向企业化](https://jinshuju.net/)
+* [表单大师](https://www.jsform.com/)
+* [问卷星](https://www.sojump.com/)
+* [简道云](https://www.jiandaoyun.com/)
+* [wufoo](https://www.wufoo.com/)
+* [腾讯问卷](https://wj.qq.com/)
+* [问卷网](https://www.wenjuan.com/)
+* [MAKA](http://maka.im/)
 
 学习辅导
 ====================================
