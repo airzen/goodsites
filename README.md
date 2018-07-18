@@ -71,6 +71,7 @@
 * [*小z软件站*](http://soft.hixz.org)
 * [歌单](http://www.barretlee.com/about/)
 * [老殁IT-一个破解版好软件的集中营](https://www.laomoit.com/)
+* [老殁高清分类壁纸](https://www.laomoit.com/html/wallpaper/)
 
 
 
