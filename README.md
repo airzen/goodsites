@@ -24,6 +24,7 @@
 * [优词-查英文词源](http://www.youdict.com/)
 * [词根字典](http://www.cgdict.com/index)
 * [抓鸟-词典](http://dict.zhuaniao.com/)
+* [图片无损压缩tinypng](https://tinypng.com/)
 
 几款免费高效的数据收集工具
 ====================================
