@@ -73,6 +73,7 @@
 * [歌单](http://www.barretlee.com/about/)
 * [老殁IT-一个破解版好软件的集中营](https://www.laomoit.com/)
 * [老殁高清分类壁纸](https://www.laomoit.com/html/wallpaper/)
+* [IDEA及其它软件破解个人站](http://blog.lanyus.com/)
 
 
 
