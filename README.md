@@ -76,6 +76,7 @@
 * [IDEA及其它软件破解个人站](http://blog.lanyus.com/)
 * [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 * [最简单的本地搜索软件](http://f.jicer.cn/)
+* [hsweb企业后台管理系统基础框架 java](http://www.hsweb.me/)
 
 
 
