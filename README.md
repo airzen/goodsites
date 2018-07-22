@@ -74,6 +74,8 @@
 * [老殁IT-一个破解版好软件的集中营](https://www.laomoit.com/)
 * [老殁高清分类壁纸](https://www.laomoit.com/html/wallpaper/)
 * [IDEA及其它软件破解个人站](http://blog.lanyus.com/)
+* [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
+* [最简单的本地搜索软件](http://f.jicer.cn/)
 
 
 
