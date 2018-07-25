@@ -146,6 +146,7 @@
 * [更全的代码在线调试](https://c.runoob.com/)
 * [shell终端录屏](https://asciinema.org/)
 * 反向代理ngrok研究 ngrok.com(国外） ngrok.cc(国产免费)
+* [licecap 局部截屏输出为gif](https://www.cockos.com/licecap/)
 
 VPN翻墙，科学上网
 ===================================
