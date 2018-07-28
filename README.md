@@ -148,6 +148,7 @@
 * 反向代理ngrok研究 ngrok.com(国外） ngrok.cc(国产免费)
 * [FRP-FastReverseProxy](https://github.com/fatedier/frp)
 * [licecap 局部截屏输出为gif](https://www.cockos.com/licecap/)
+* [anki-闪卡 web,ios,android,win,mac](https://ankiweb.net/)
 
 VPN翻墙，科学上网
 ===================================
